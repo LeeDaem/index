@@ -11,3 +11,4 @@
 - JSON
 - localStorage
 - innerHTML
+- DOM
