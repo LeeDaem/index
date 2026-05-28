@@ -12,3 +12,4 @@
 - localStorage
 - innerHTML
 - DOM
+- Event
