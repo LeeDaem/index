@@ -24,13 +24,13 @@ h1 {
     margin-bottom: 20px;
 }
 
-#todo-input {
+.todo-input {
     flex: 1;
     padding: 10px;
     font-size: 16px;
 }
 
-#add-btn {
+.add-btn {
     padding: 10px;
     background: yellowgreen;
     color: white;
