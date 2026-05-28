@@ -1,6 +1,6 @@
-const todoInput = document.querySelector("#todo-input");
-const addBtn = document.querySelector("#add-btn");
-const todoList = document.querySelector("#todo-list");
+const todoInput = document.querySelector(".todo-input");
+const addBtn = document.querySelector(".add-btn");
+const todoList = document.querySelector(".todo-list");
 
     
 let todos = JSON.parse(localStorage.getItem("todos")) || [];
